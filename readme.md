@@ -18,6 +18,9 @@ https://classic.yarnpkg.com/en/docs/install#windows-stable
 
 yarnをインストールする。
 AlternativesのClick to expand をクリックしてOSを選択する。
+そうすると下記の図のようにガイドが表示されると思います。
+
+<img width="644" alt="yarn-install" src="https://github.com/kinachan/server-mock/assets/20530743/f2473a00-6703-4545-9141-ea833397275e">
 
 __英語むずいと思うけど、翻訳かけて読んでね！！__ 
 
