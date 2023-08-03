@@ -93,6 +93,24 @@ id: 1のユーザーのみ取得
 削除：DELETE
 
 を使ってください。
+
+
+登録
+http://localhost:5656/user
+Method: POST
+bodyのデータはJSON形式にする。登録したいデータをセットする
+※IDは既に採番されてるものだと重複エラーとなり登録できないので、一覧からデータを見て採番しなおしてください。
+
+更新
+http://localhost:5656/user/更新したいID
+Method: PUT
+bodyのデータはJSON形式にする。更新後のデータをセットする。
+※更新したいIDは既に採番されてるものにしないとエラーになります。
+
+削除
+http://localhost:5656/user/削除したいID
+Method: DELETE
+
 ```
 
 詳しくは
